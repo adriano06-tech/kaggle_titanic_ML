@@ -1,0 +1,1 @@
+CALL conda.bat activate & jupyter notebook
